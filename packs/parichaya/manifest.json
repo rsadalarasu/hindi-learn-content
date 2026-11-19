@@ -1,0 +1,11 @@
+{
+  "id": "parichaya",
+  "level": "Parichaya",
+  "version": 1,
+  "language": "hi",
+  "title": "Parichaya — First Steps in Hindi",
+  "description": "Basic alphabet, simple words, and short sentences. The first DBHPS exam level.",
+  "lessons": [
+    { "id": "parichaya-01", "title": "Swar — the 13 vowels", "file": "lessons/parichaya-01.json" }
+  ]
+}

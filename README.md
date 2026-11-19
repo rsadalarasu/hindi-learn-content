@@ -4,7 +4,7 @@ Downloadable DBHPS exam packs for the AramSei Learn Hindi app
 (`rsadalarasu/learnhindi`, Android + iOS, `com.aramseilearn.ushindilearn`).
 
 Packs download into the app on demand, so the app itself stays small.
-**First pack: Prathmik.**
+**First pack: Parichaya (the first exam level).**
 
 ## Pack format (per pack, shipped as a GitHub Release zip)
 

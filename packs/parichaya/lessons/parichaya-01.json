@@ -1,0 +1,13 @@
+{
+  "id": "parichaya-01",
+  "title": "Swar — the 13 vowels",
+  "text": "अ आ इ ई उ ऊ ऋ ए ऐ ओ औ अं अः — the 13 Swar (vowels). Say each one, then read: अ — अम, आ — आम.",
+  "words": [
+    { "hi": "अम", "en": "mango (poetic)", "roman": "am" },
+    { "hi": "आम", "en": "mango", "roman": "aam" },
+    { "hi": "अब", "en": "now", "roman": "ab" }
+  ],
+  "quiz": [
+    { "q": "What does आम mean?", "options": ["mango", "house", "water"], "answer": 0 }
+  ]
+}

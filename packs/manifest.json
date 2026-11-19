@@ -1,10 +1,21 @@
 {
   "packs": [
     {
+      "id": "parichaya",
+      "level": "Parichaya",
+      "version": 1,
+      "status": "in-progress",
+      "description": "Basic alphabet, simple words, and short sentences. DBHPS Parichaya — the first exam level.",
+      "release_tag": "pack-parichaya-v1",
+      "file": "pack-parichaya-v1.zip",
+      "sha256": "",
+      "size_bytes": 0
+    },
+    {
       "id": "prathmik",
       "level": "Prathmik",
       "version": 1,
-      "status": "in-progress",
+      "status": "planned",
       "description": "Elementary grammar, sentence building, short paragraphs. DBHPS Prathmik.",
       "release_tag": "pack-prathmik-v1",
       "file": "pack-prathmik-v1.zip",
