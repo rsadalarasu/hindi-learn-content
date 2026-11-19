@@ -33,3 +33,10 @@ downloads and verify integrity (SHA-256 checked before install).
 1. Edit the pack under `packs/<level>/`, bump `version` in its manifest.
 2. `tools/make_pack.sh <level>` — zips, hashes, writes `packs/manifest.json`.
 3. Tag `pack-<level>-v<N>` and attach the zip + `.sha256` as a GitHub Release.
+
+## Syllabus source
+
+`docs/hpsabha-exams.md` (+ `hpsabha-exams.json`) — full extraction from
+the official DBHPS site https://www.dbhpscentral.org (exam pages,
+syllabus, books, fees), 2026-11-18. hpsabha.com is a DIFFERENT
+organisation (Mauritius) — never use it as the syllabus source.
