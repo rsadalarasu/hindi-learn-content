@@ -1,0 +1,11 @@
+{
+  "id": "prathmik",
+  "level": "Prathmik",
+  "version": 1,
+  "language": "hi",
+  "title": "Prathmik — Elementary Hindi",
+  "description": "Elementary grammar, sentence building, and short paragraphs.",
+  "lessons": [
+    { "id": "prathmik-01", "title": "Swar revision + simple words", "file": "lessons/prathmik-01.json" }
+  ]
+}

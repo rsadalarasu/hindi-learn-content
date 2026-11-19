@@ -1,0 +1,13 @@
+{
+  "id": "prathmik-01",
+  "title": "Swar revision + simple words",
+  "text": "अ आ इ ई — revise the 13 Swar, then read simple two-letter words: अम, अब, घर, फल.",
+  "words": [
+    { "hi": "अम", "en": "mango (poetic)", "roman": "am" },
+    { "hi": "घर", "en": "house", "roman": "ghar" },
+    { "hi": "फल", "en": "fruit", "roman": "phal" }
+  ],
+  "quiz": [
+    { "q": "What does घर mean?", "options": ["house", "fruit", "water"], "answer": 0 }
+  ]
+}

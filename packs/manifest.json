@@ -1,0 +1,15 @@
+{
+  "packs": [
+    {
+      "id": "prathmik",
+      "level": "Prathmik",
+      "version": 1,
+      "status": "in-progress",
+      "description": "Elementary grammar, sentence building, short paragraphs. DBHPS Prathmik.",
+      "release_tag": "pack-prathmik-v1",
+      "file": "pack-prathmik-v1.zip",
+      "sha256": "",
+      "size_bytes": 0
+    }
+  ]
+}
